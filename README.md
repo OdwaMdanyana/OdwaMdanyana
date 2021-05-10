@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OdwaMdanyana
 - 👀 I’m interested in ...WEB DEVELOPMENT
 - 🌱 I’m currently learning ...ASP.NET and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... e-commerce project using React and Asp.Net
+- 📫 How to reach me ...tervin.mdanyana@gmail.com / mdakszin@gmail.com
 
 <!---
 OdwaMdanyana/OdwaMdanyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
